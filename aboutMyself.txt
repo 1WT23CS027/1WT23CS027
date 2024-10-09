@@ -6,3 +6,6 @@ Section:B
 Branch:Computer science and engineering
 Year of admission:2023
 College name:GITW
+SSLC:CGPS
+PUC:RJS COLLEGE
+UG Degree:GITW
